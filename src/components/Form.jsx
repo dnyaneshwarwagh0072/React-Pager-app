@@ -42,7 +42,7 @@ const Form = () => {
         <div className='form-container'>
             <form>
                 <div className="form-header">
-                    send msg to accioJob
+                    Send msg to accio Job
                 </div>
                 <div className="form-input">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="size-6">
